@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373628096279",
+    "project_id": "admassistant-575fc",
+    "storage_bucket": "admassistant-575fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373628096279:android:e18eba8722e3529a2fb152",
+        "android_client_info": {
+          "package_name": "com.rm.adm_assistant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZgtH3u2Bwfmy297DLjd9EoMpRxRE9Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
